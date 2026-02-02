@@ -1,0 +1,47 @@
+<!DOCTYPE>
+<html>
+<body>
+
+<table border="1">
+<tr>
+<th colspan="4" Purchased Equipments(June,2006)</th>
+</tr>
+
+<tr>
+<th rowspan="2"> Item Num#</th>
+<th rowspan ="2">Item Picture</th>
+<th>Price</th>
+</tr>
+
+<tr>
+<th>Shipping Handling, Installation,etc</th>
+<th> Expenses</th>
+</tr>
+
+<tr>
+<td rowspan="2">1</td>
+<td rowspan="2"><img src="computer.jpg" width="60" height="60"></d>
+<td> IBM Clone Computer</td>
+<td>$400.00</td>
+</tr>
+
+<tr>
+<td>Shipping Handling,Insallation,etc</td>
+<td>$20.00</td>
+</tr>
+
+<tr>
+<td rowspan="2">2</td>
+<td rowspan="2"><img src="ram.jpg" width="60" height="60"</td>
+<td> IGB RAM Module For Computer</td>
+<td>$50.00</td>
+</tr>
+
+<tr>
+<td>Shipping Handling,Installation,etc</td>
+<td>$14.00</td>
+</tr>
+</table>
+</body>
+</html>
+
